@@ -1,5 +1,5 @@
 # Multi-Modal Toxicity Detector: AI Moderator 🛡️🤖
-
+## 📊 [View the Pitch Presentation: Safeguarding The Metaverse](./docs/Safeguarding%20The%20Metaverse.pdf)
 A sophisticated AI moderation system designed to detect and flag harmful content across multiple data formats (Text & Visuals) in real-time.
 
 ## 🚀 The Mission
