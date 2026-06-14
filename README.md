@@ -1,4 +1,6 @@
 # Multi-Modal Toxicity Detector: AI Moderator 🛡️🤖
+📺 **[Watch the full project demo on YouTube](https://youtu.be/ihofGv5SHQE)**
+
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-Framework-green.svg)](https://flask.palletsprojects.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-Microservices-68a063.svg)](https://nodejs.org/)
